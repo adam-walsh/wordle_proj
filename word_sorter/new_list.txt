@@ -1,0 +1,1741 @@
+anise
+ 6, 3, 5, 31 
+iotas
+ 6, 3, 5, 503 
+argue
+ 6, 3, 6, 39 
+pause
+ 6, 3, 7, 703 
+quail
+ 6, 3, 14, 767 
+learn
+ 6, 2, 5, 551 
+risen
+ 6, 2, 5, 807 
+ulnas
+ 6, 2, 5, 1063 
+dials
+ 6, 2, 6, 255 
+guilt
+ 6, 2, 6, 439 
+large
+ 6, 2, 6, 543 
+ruled
+ 6, 2, 6, 823 
+sited
+ 6, 2, 6, 887 
+urges
+ 6, 2, 6, 1071 
+bleat
+ 6, 2, 7, 95 
+canto
+ 6, 2, 7, 151 
+gourd
+ 6, 2, 7, 423 
+lucre
+ 6, 2, 7, 583 
+mitre
+ 6, 2, 7, 623 
+omens
+ 6, 2, 7, 679 
+peons
+ 6, 2, 7, 711 
+prise
+ 6, 2, 7, 751 
+smote
+ 6, 2, 7, 911 
+truce
+ 6, 2, 7, 1047 
+agism
+ 6, 2, 8, 15 
+feint
+ 6, 2, 8, 335 
+floes
+ 6, 2, 8, 359 
+foist
+ 6, 2, 8, 367 
+haler
+ 6, 2, 8, 447 
+haunt
+ 6, 2, 8, 455 
+lifer
+ 6, 2, 8, 559 
+nomad
+ 6, 2, 8, 663 
+overt
+ 6, 2, 8, 687 
+posed
+ 6, 2, 8, 743 
+swore
+ 6, 2, 8, 983 
+teary
+ 6, 2, 8, 999 
+veins
+ 6, 2, 8, 1079 
+viral
+ 6, 2, 8, 1087 
+cabin
+ 6, 2, 9, 143 
+comas
+ 6, 2, 9, 199 
+crape
+ 6, 2, 9, 215 
+filed
+ 6, 2, 9, 343 
+gamed
+ 6, 2, 9, 391 
+given
+ 6, 2, 9, 407 
+lived
+ 6, 2, 9, 567 
+slake
+ 6, 2, 9, 895 
+wined
+ 6, 2, 9, 1127 
+yogis
+ 6, 2, 9, 1151 
+cavil
+ 6, 2, 10, 159 
+moped
+ 6, 2, 10, 631 
+nacho
+ 6, 2, 10, 647 
+decoy
+ 6, 2, 11, 247 
+hives
+ 6, 2, 11, 471 
+hoped
+ 6, 2, 11, 479 
+fakes
+ 6, 2, 12, 327 
+miked
+ 6, 2, 12, 615 
+enjoy
+ 6, 2, 15, 311 
+jumbo
+ 6, 2, 16, 519 
+turns
+ 6, 1, 5, 1055 
+tangs
+ 6, 1, 6, 991 
+blurt
+ 6, 1, 7, 103 
+spent
+ 6, 1, 7, 935 
+sprat
+ 6, 1, 7, 943 
+curds
+ 6, 1, 8, 231 
+hunts
+ 6, 1, 8, 487 
+trays
+ 6, 1, 8, 1039 
+wants
+ 6, 1, 8, 1103 
+corms
+ 6, 1, 9, 207 
+frags
+ 6, 1, 9, 375 
+gnaws
+ 6, 1, 9, 415 
+kilts
+ 6, 1, 9, 527 
+scrap
+ 6, 1, 9, 847 
+stark
+ 6, 1, 9, 951 
+study
+ 6, 1, 9, 967 
+briny
+ 6, 1, 10, 127 
+clefs
+ 6, 1, 10, 183 
+damps
+ 6, 1, 10, 239 
+helps
+ 6, 1, 10, 463 
+marsh
+ 6, 1, 10, 599 
+chugs
+ 6, 1, 11, 175 
+clump
+ 6, 1, 11, 191 
+grimy
+ 6, 1, 11, 431 
+wefts
+ 6, 1, 11, 1111 
+whirl
+ 6, 1, 11, 1119 
+dwarf
+ 6, 1, 12, 295 
+shank
+ 6, 1, 12, 863 
+wordy
+ 6, 1, 12, 1135 
+pocks
+ 6, 1, 13, 735 
+bawdy
+ 6, 1, 14, 71 
+bumpy
+ 6, 1, 14, 135 
+fucks
+ 6, 1, 14, 383 
+wacks
+ 6, 1, 14, 1095 
+fjord
+ 6, 1, 16, 351 
+jerky
+ 6, 1, 19, 511 
+euros
+ 5, 3, 5, 317 
+louse
+ 5, 3, 5, 578 
+oasis
+ 5, 3, 5, 671 
+raise
+ 5, 3, 5, 778 
+route
+ 5, 3, 5, 818 
+suite
+ 5, 3, 5, 971 
+ulnae
+ 5, 3, 5, 1062 
+unite
+ 5, 3, 5, 1066 
+aside
+ 5, 3, 6, 42 
+douse
+ 5, 3, 6, 274 
+guano
+ 5, 3, 6, 437 
+guile
+ 5, 3, 6, 438 
+ideas
+ 5, 3, 6, 492 
+indue
+ 5, 3, 6, 498 
+oiled
+ 5, 3, 6, 676 
+abuse
+ 5, 3, 7, 3 
+acute
+ 5, 3, 7, 6 
+amuse
+ 5, 3, 7, 29 
+email
+ 5, 3, 7, 306 
+piano
+ 5, 3, 7, 717 
+afoul
+ 5, 3, 8, 12 
+omega
+ 5, 3, 8, 678 
+avoid
+ 5, 3, 9, 51 
+vogue
+ 5, 3, 9, 1091 
+above
+ 5, 3, 10, 2 
+miaow
+ 5, 3, 10, 613 
+waive
+ 5, 3, 11, 1099 
+joule
+ 5, 3, 12, 517 
+azure
+ 5, 3, 14, 54 
+beaux
+ 5, 3, 14, 74 
+emoji
+ 5, 3, 14, 308 
+quiet
+ 5, 3, 14, 771 
+quite
+ 5, 3, 14, 772 
+aster
+ 5, 2, 5, 45 
+inlet
+ 5, 2, 5, 500 
+lairs
+ 5, 2, 5, 538 
+liens
+ 5, 2, 5, 558 
+lions
+ 5, 2, 5, 565 
+litre
+ 5, 2, 5, 566 
+nurse
+ 5, 2, 5, 669 
+roast
+ 5, 2, 5, 811 
+routs
+ 5, 2, 5, 819 
+ruins
+ 5, 2, 5, 822 
+sales
+ 5, 2, 5, 831 
+senna
+ 5, 2, 5, 855 
+sitar
+ 5, 2, 5, 886 
+slain
+ 5, 2, 5, 894 
+snore
+ 5, 2, 5, 917 
+souls
+ 5, 2, 5, 927 
+stale
+ 5, 2, 5, 949 
+stare
+ 5, 2, 5, 950 
+tales
+ 5, 2, 5, 988 
+taser
+ 5, 2, 5, 995 
+tears
+ 5, 2, 5, 998 
+tiara
+ 5, 2, 5, 1015 
+title
+ 5, 2, 5, 1023 
+torsi
+ 5, 2, 5, 1030 
+trail
+ 5, 2, 5, 1036 
+train
+ 5, 2, 5, 1037 
+tries
+ 5, 2, 5, 1042 
+tunas
+ 5, 2, 5, 1053 
+units
+ 5, 2, 5, 1067 
+until
+ 5, 2, 5, 1068 
+adult
+ 5, 2, 6, 10 
+along
+ 5, 2, 6, 22 
+argot
+ 5, 2, 6, 38 
+delta
+ 5, 2, 6, 250 
+drone
+ 5, 2, 6, 284 
+eider
+ 5, 2, 6, 303 
+gates
+ 5, 2, 6, 395 
+giant
+ 5, 2, 6, 403 
+gloat
+ 5, 2, 6, 410 
+glues
+ 5, 2, 6, 413 
+igloo
+ 5, 2, 6, 495 
+lauds
+ 5, 2, 6, 546 
+leads
+ 5, 2, 6, 549 
+login
+ 5, 2, 6, 573 
+range
+ 5, 2, 6, 781 
+snide
+ 5, 2, 6, 915 
+solid
+ 5, 2, 6, 923 
+suing
+ 5, 2, 6, 970 
+tango
+ 5, 2, 6, 990 
+abets
+ 5, 2, 7, 1 
+adage
+ 5, 2, 7, 7 
+amirs
+ 5, 2, 7, 26 
+apter
+ 5, 2, 7, 36 
+attic
+ 5, 2, 7, 47 
+basil
+ 5, 2, 7, 66 
+basin
+ 5, 2, 7, 67 
+bates
+ 5, 2, 7, 69 
+betas
+ 5, 2, 7, 84 
+biers
+ 5, 2, 7, 86 
+bolas
+ 5, 2, 7, 107 
+boner
+ 5, 2, 7, 108 
+bones
+ 5, 2, 7, 109 
+borne
+ 5, 2, 7, 114 
+bouts
+ 5, 2, 7, 116 
+brute
+ 5, 2, 7, 130 
+built
+ 5, 2, 7, 132 
+caste
+ 5, 2, 7, 156 
+cleat
+ 5, 2, 7, 182 
+clout
+ 5, 2, 7, 189 
+clues
+ 5, 2, 7, 190 
+coils
+ 5, 2, 7, 196 
+coins
+ 5, 2, 7, 197 
+cuter
+ 5, 2, 7, 234 
+doing
+ 5, 2, 7, 268 
+druid
+ 5, 2, 7, 287 
+gated
+ 5, 2, 7, 394 
+glued
+ 5, 2, 7, 412 
+inept
+ 5, 2, 7, 499 
+ioctl
+ 5, 2, 7, 502 
+lance
+ 5, 2, 7, 541 
+leapt
+ 5, 2, 7, 550 
+limos
+ 5, 2, 7, 562 
+manes
+ 5, 2, 7, 594 
+manor
+ 5, 2, 7, 597 
+means
+ 5, 2, 7, 605 
+metal
+ 5, 2, 7, 611 
+miner
+ 5, 2, 7, 618 
+mines
+ 5, 2, 7, 619 
+minus
+ 5, 2, 7, 620 
+mites
+ 5, 2, 7, 622 
+moist
+ 5, 2, 7, 626 
+molar
+ 5, 2, 7, 627 
+moult
+ 5, 2, 7, 635 
+muter
+ 5, 2, 7, 645 
+noble
+ 5, 2, 7, 661 
+orbit
+ 5, 2, 7, 682 
+paint
+ 5, 2, 7, 692 
+pairs
+ 5, 2, 7, 693 
+paste
+ 5, 2, 7, 700 
+pleat
+ 5, 2, 7, 730 
+racer
+ 5, 2, 7, 775 
+reams
+ 5, 2, 7, 788 
+reaps
+ 5, 2, 7, 789 
+recta
+ 5, 2, 7, 790 
+recur
+ 5, 2, 7, 791 
+relic
+ 5, 2, 7, 795 
+rimes
+ 5, 2, 7, 805 
+slice
+ 5, 2, 7, 899 
+slope
+ 5, 2, 7, 902 
+spare
+ 5, 2, 7, 931 
+spire
+ 5, 2, 7, 938 
+spite
+ 5, 2, 7, 939 
+spout
+ 5, 2, 7, 942 
+tacos
+ 5, 2, 7, 987 
+tomes
+ 5, 2, 7, 1027 
+tuber
+ 5, 2, 7, 1051 
+urged
+ 5, 2, 7, 1070 
+acids
+ 5, 2, 8, 4 
+acing
+ 5, 2, 8, 5 
+after
+ 5, 2, 8, 13 
+aloof
+ 5, 2, 8, 23 
+baaed
+ 5, 2, 8, 55 
+baled
+ 5, 2, 8, 59 
+bated
+ 5, 2, 8, 68 
+begun
+ 5, 2, 8, 78 
+beige
+ 5, 2, 8, 79 
+blade
+ 5, 2, 8, 92 
+booed
+ 5, 2, 8, 111 
+bride
+ 5, 2, 8, 125 
+cloud
+ 5, 2, 8, 188 
+debit
+ 5, 2, 8, 244 
+decor
+ 5, 2, 8, 246 
+depot
+ 5, 2, 8, 252 
+dimer
+ 5, 2, 8, 258 
+dimes
+ 5, 2, 8, 259 
+ethos
+ 5, 2, 8, 316 
+fates
+ 5, 2, 8, 331 
+fetus
+ 5, 2, 8, 338 
+fleas
+ 5, 2, 8, 355 
+flier
+ 5, 2, 8, 356 
+flies
+ 5, 2, 8, 357 
+foals
+ 5, 2, 8, 365 
+foils
+ 5, 2, 8, 366 
+fouls
+ 5, 2, 8, 372 
+gable
+ 5, 2, 8, 388 
+gismo
+ 5, 2, 8, 406 
+globe
+ 5, 2, 8, 411 
+grime
+ 5, 2, 8, 430 
+hares
+ 5, 2, 8, 451 
+hauls
+ 5, 2, 8, 454 
+hears
+ 5, 2, 8, 458 
+heart
+ 5, 2, 8, 459 
+helot
+ 5, 2, 8, 462 
+hulas
+ 5, 2, 8, 484 
+laity
+ 5, 2, 8, 539 
+logic
+ 5, 2, 8, 572 
+lousy
+ 5, 2, 8, 579 
+mired
+ 5, 2, 8, 621 
+mould
+ 5, 2, 8, 634 
+mused
+ 5, 2, 8, 642 
+muted
+ 5, 2, 8, 644 
+noisy
+ 5, 2, 8, 662 
+novel
+ 5, 2, 8, 666 
+overs
+ 5, 2, 8, 686 
+padre
+ 5, 2, 8, 690 
+plied
+ 5, 2, 8, 731 
+pride
+ 5, 2, 8, 749 
+proud
+ 5, 2, 8, 754 
+purge
+ 5, 2, 8, 763 
+raced
+ 5, 2, 8, 774 
+relay
+ 5, 2, 8, 794 
+rifle
+ 5, 2, 8, 803 
+rimed
+ 5, 2, 8, 804 
+royal
+ 5, 2, 8, 821 
+shine
+ 5, 2, 8, 869 
+shout
+ 5, 2, 8, 875 
+swine
+ 5, 2, 8, 980 
+timed
+ 5, 2, 8, 1019 
+tubed
+ 5, 2, 8, 1050 
+twine
+ 5, 2, 8, 1058 
+valet
+ 5, 2, 8, 1074 
+veils
+ 5, 2, 8, 1078 
+vials
+ 5, 2, 8, 1083 
+voter
+ 5, 2, 8, 1093 
+waits
+ 5, 2, 8, 1098 
+wiles
+ 5, 2, 8, 1124 
+write
+ 5, 2, 8, 1141 
+years
+ 5, 2, 8, 1148 
+yeast
+ 5, 2, 8, 1149 
+awing
+ 5, 2, 9, 53 
+blame
+ 5, 2, 9, 93 
+carpi
+ 5, 2, 9, 154 
+copes
+ 5, 2, 9, 205 
+croci
+ 5, 2, 9, 223 
+cubit
+ 5, 2, 9, 228 
+dhoti
+ 5, 2, 9, 254 
+doves
+ 5, 2, 9, 275 
+doyen
+ 5, 2, 9, 276 
+duvet
+ 5, 2, 9, 294 
+eying
+ 5, 2, 9, 323 
+fades
+ 5, 2, 9, 325 
+fated
+ 5, 2, 9, 330 
+feign
+ 5, 2, 9, 334 
+feuds
+ 5, 2, 9, 339 
+field
+ 5, 2, 9, 341 
+found
+ 5, 2, 9, 373 
+fried
+ 5, 2, 9, 378 
+fused
+ 5, 2, 9, 387 
+ghoul
+ 5, 2, 9, 402 
+grove
+ 5, 2, 9, 434 
+haled
+ 5, 2, 9, 446 
+hinge
+ 5, 2, 9, 468 
+kilos
+ 5, 2, 9, 526 
+laugh
+ 5, 2, 9, 547 
+oinks
+ 5, 2, 9, 677 
+pecan
+ 5, 2, 9, 707 
+scope
+ 5, 2, 9, 845 
+sough
+ 5, 2, 9, 926 
+stake
+ 5, 2, 9, 948 
+trike
+ 5, 2, 9, 1043 
+unwed
+ 5, 2, 9, 1069 
+valid
+ 5, 2, 9, 1075 
+voted
+ 5, 2, 9, 1092 
+wider
+ 5, 2, 9, 1122 
+yogin
+ 5, 2, 9, 1150 
+asked
+ 5, 2, 10, 43 
+befit
+ 5, 2, 10, 77 
+calif
+ 5, 2, 10, 147 
+caves
+ 5, 2, 10, 158 
+chino
+ 5, 2, 10, 171 
+choir
+ 5, 2, 10, 172 
+coped
+ 5, 2, 10, 204 
+coves
+ 5, 2, 10, 210 
+covet
+ 5, 2, 10, 211 
+drake
+ 5, 2, 10, 278 
+dukes
+ 5, 2, 10, 290 
+habit
+ 5, 2, 10, 444 
+harem
+ 5, 2, 10, 450 
+homer
+ 5, 2, 10, 475 
+knead
+ 5, 2, 10, 530 
+leach
+ 5, 2, 10, 548 
+magic
+ 5, 2, 10, 590 
+mavin
+ 5, 2, 10, 602 
+mealy
+ 5, 2, 10, 604 
+medic
+ 5, 2, 10, 606 
+mover
+ 5, 2, 10, 637 
+phase
+ 5, 2, 10, 715 
+prove
+ 5, 2, 10, 755 
+repay
+ 5, 2, 10, 796 
+saucy
+ 5, 2, 10, 836 
+viper
+ 5, 2, 10, 1086 
+aphid
+ 5, 2, 11, 35 
+awful
+ 5, 2, 11, 52 
+baulk
+ 5, 2, 11, 70 
+bleak
+ 5, 2, 11, 94 
+boink
+ 5, 2, 11, 106 
+bowed
+ 5, 2, 11, 117 
+croak
+ 5, 2, 11, 222 
+homed
+ 5, 2, 11, 474 
+hovel
+ 5, 2, 11, 482 
+hover
+ 5, 2, 11, 483 
+moved
+ 5, 2, 11, 636 
+noway
+ 5, 2, 11, 667 
+phage
+ 5, 2, 11, 714 
+polka
+ 5, 2, 11, 738 
+pukes
+ 5, 2, 11, 758 
+speak
+ 5, 2, 11, 933 
+vapid
+ 5, 2, 11, 1076 
+views
+ 5, 2, 11, 1084 
+waver
+ 5, 2, 11, 1106 
+waves
+ 5, 2, 11, 1107 
+weary
+ 5, 2, 11, 1108 
+wives
+ 5, 2, 11, 1131 
+exult
+ 5, 2, 12, 322 
+faker
+ 5, 2, 12, 326 
+fluke
+ 5, 2, 12, 362 
+gecko
+ 5, 2, 12, 398 
+hived
+ 5, 2, 12, 470 
+jails
+ 5, 2, 12, 507 
+jeans
+ 5, 2, 12, 509 
+joins
+ 5, 2, 12, 515 
+loxes
+ 5, 2, 12, 581 
+nixes
+ 5, 2, 12, 660 
+poach
+ 5, 2, 12, 734 
+sheik
+ 5, 2, 12, 866 
+amuck
+ 5, 2, 13, 28 
+hiked
+ 5, 2, 13, 467 
+jades
+ 5, 2, 13, 506 
+taxed
+ 5, 2, 13, 997 
+vodka
+ 5, 2, 13, 1090 
+boxes
+ 5, 2, 14, 118 
+choke
+ 5, 2, 14, 173 
+julep
+ 5, 2, 14, 518 
+pixel
+ 5, 2, 14, 726 
+pixie
+ 5, 2, 14, 727 
+quits
+ 5, 2, 14, 773 
+razes
+ 5, 2, 14, 786 
+toxic
+ 5, 2, 14, 1035 
+wacko
+ 5, 2, 14, 1094 
+zeros
+ 5, 2, 14, 1155 
+zonal
+ 5, 2, 14, 1156 
+adzes
+ 5, 2, 15, 11 
+dazes
+ 5, 2, 15, 242 
+faxes
+ 5, 2, 15, 332 
+maxed
+ 5, 2, 15, 603 
+quids
+ 5, 2, 15, 770 
+zoned
+ 5, 2, 15, 1157 
+cozen
+ 5, 2, 16, 212 
+zebus
+ 5, 2, 16, 1154 
+furze
+ 5, 2, 17, 386 
+fazed
+ 5, 2, 18, 333 
+lints
+ 5, 1, 5, 564 
+netts
+ 5, 1, 5, 655 
+stirs
+ 5, 1, 5, 959 
+terns
+ 5, 1, 5, 1005 
+torso
+ 5, 1, 5, 1031 
+gilts
+ 5, 1, 6, 404 
+grunt
+ 5, 1, 6, 436 
+lards
+ 5, 1, 6, 542 
+sling
+ 5, 1, 6, 900 
+blurs
+ 5, 1, 7, 102 
+burst
+ 5, 1, 7, 139 
+clans
+ 5, 1, 7, 180 
+colts
+ 5, 1, 7, 198 
+drugs
+ 5, 1, 7, 286 
+dungs
+ 5, 1, 7, 292 
+looms
+ 5, 1, 7, 575 
+meets
+ 5, 1, 7, 607 
+ports
+ 5, 1, 7, 742 
+pulls
+ 5, 1, 7, 759 
+scent
+ 5, 1, 7, 843 
+slops
+ 5, 1, 7, 903 
+smelt
+ 5, 1, 7, 909 
+storm
+ 5, 1, 7, 962 
+strep
+ 5, 1, 7, 964 
+terms
+ 5, 1, 7, 1004 
+balds
+ 5, 1, 8, 58 
+birds
+ 5, 1, 8, 91 
+clods
+ 5, 1, 8, 186 
+clogs
+ 5, 1, 8, 187 
+contd
+ 5, 1, 8, 203 
+damns
+ 5, 1, 8, 238 
+debts
+ 5, 1, 8, 245 
+dooms
+ 5, 1, 8, 271 
+drama
+ 5, 1, 8, 279 
+ewers
+ 5, 1, 8, 319 
+front
+ 5, 1, 8, 381 
+grasp
+ 5, 1, 8, 426 
+harts
+ 5, 1, 8, 452 
+lusty
+ 5, 1, 8, 587 
+nasty
+ 5, 1, 8, 650 
+panda
+ 5, 1, 8, 695 
+piing
+ 5, 1, 8, 719 
+pings
+ 5, 1, 8, 722 
+plugs
+ 5, 1, 8, 733 
+retry
+ 5, 1, 8, 799 
+roofs
+ 5, 1, 8, 815 
+rusty
+ 5, 1, 8, 827 
+scads
+ 5, 1, 8, 839 
+shirt
+ 5, 1, 8, 870 
+shits
+ 5, 1, 8, 871 
+slyer
+ 5, 1, 8, 907 
+spend
+ 5, 1, 8, 934 
+story
+ 5, 1, 8, 963 
+strew
+ 5, 1, 8, 965 
+thees
+ 5, 1, 8, 1007 
+thorn
+ 5, 1, 8, 1011 
+towns
+ 5, 1, 8, 1034 
+trawl
+ 5, 1, 8, 1038 
+troys
+ 5, 1, 8, 1046 
+turfs
+ 5, 1, 8, 1054 
+wrist
+ 5, 1, 8, 1140 
+barbs
+ 5, 1, 9, 63 
+berms
+ 5, 1, 9, 82 
+carps
+ 5, 1, 9, 155 
+claps
+ 5, 1, 9, 181 
+crabs
+ 5, 1, 9, 213 
+cribs
+ 5, 1, 9, 220 
+curbs
+ 5, 1, 9, 230 
+drift
+ 5, 1, 9, 282 
+frond
+ 5, 1, 9, 380 
+growl
+ 5, 1, 9, 435 
+gusty
+ 5, 1, 9, 443 
+hings
+ 5, 1, 9, 469 
+idyls
+ 5, 1, 9, 494 
+lamps
+ 5, 1, 9, 540 
+limps
+ 5, 1, 9, 563 
+numbs
+ 5, 1, 9, 668 
+randy
+ 5, 1, 9, 780 
+scram
+ 5, 1, 9, 846 
+shrug
+ 5, 1, 9, 877 
+slink
+ 5, 1, 9, 901 
+swags
+ 5, 1, 9, 975 
+swing
+ 5, 1, 9, 981 
+sword
+ 5, 1, 9, 982 
+talks
+ 5, 1, 9, 989 
+thong
+ 5, 1, 9, 1010 
+tombs
+ 5, 1, 9, 1026 
+tromp
+ 5, 1, 9, 1045 
+words
+ 5, 1, 9, 1134 
+yards
+ 5, 1, 9, 1147 
+aptly
+ 5, 1, 10, 37 
+blown
+ 5, 1, 10, 100 
+blows
+ 5, 1, 10, 101 
+brawn
+ 5, 1, 10, 122 
+brays
+ 5, 1, 10, 123 
+calfs
+ 5, 1, 10, 146 
+chart
+ 5, 1, 10, 164 
+cruft
+ 5, 1, 10, 226 
+dingy
+ 5, 1, 10, 260 
+disks
+ 5, 1, 10, 263 
+dunks
+ 5, 1, 10, 293 
+geeks
+ 5, 1, 10, 399 
+lyric
+ 5, 1, 10, 588 
+mewls
+ 5, 1, 10, 612 
+month
+ 5, 1, 10, 628 
+palsy
+ 5, 1, 10, 694 
+prawn
+ 5, 1, 10, 746 
+prays
+ 5, 1, 10, 747 
+retch
+ 5, 1, 10, 798 
+shrub
+ 5, 1, 10, 876 
+thrum
+ 5, 1, 10, 1013 
+types
+ 5, 1, 10, 1061 
+wrapt
+ 5, 1, 10, 1138 
+brink
+ 5, 1, 11, 126 
+bumps
+ 5, 1, 11, 134 
+camps
+ 5, 1, 11, 148 
+conks
+ 5, 1, 11, 202 
+corks
+ 5, 1, 11, 206 
+crank
+ 5, 1, 11, 214 
+crumb
+ 5, 1, 11, 227 
+depth
+ 5, 1, 11, 253 
+flays
+ 5, 1, 11, 354 
+flyer
+ 5, 1, 11, 364 
+hefts
+ 5, 1, 11, 461 
+knobs
+ 5, 1, 11, 532 
+locks
+ 5, 1, 11, 571 
+might
+ 5, 1, 11, 614 
+necks
+ 5, 1, 11, 652 
+parks
+ 5, 1, 11, 699 
+pinks
+ 5, 1, 11, 723 
+pwned
+ 5, 1, 11, 765 
+shelf
+ 5, 1, 11, 867 
+shyer
+ 5, 1, 11, 878 
+snuck
+ 5, 1, 11, 918 
+snuff
+ 5, 1, 11, 919 
+stack
+ 5, 1, 11, 947 
+stick
+ 5, 1, 11, 956 
+tawny
+ 5, 1, 11, 996 
+thaws
+ 5, 1, 11, 1006 
+throw
+ 5, 1, 11, 1012 
+typed
+ 5, 1, 11, 1060 
+whats
+ 5, 1, 11, 1115 
+whets
+ 5, 1, 11, 1117 
+wrath
+ 5, 1, 11, 1139 
+birch
+ 5, 1, 12, 90 
+cheep
+ 5, 1, 12, 167 
+finks
+ 5, 1, 12, 346 
+forks
+ 5, 1, 12, 371 
+honks
+ 5, 1, 12, 476 
+hulks
+ 5, 1, 12, 485 
+hunks
+ 5, 1, 12, 486 
+jolts
+ 5, 1, 12, 516 
+khans
+ 5, 1, 12, 525 
+muddy
+ 5, 1, 12, 639 
+pricy
+ 5, 1, 12, 748 
+twink
+ 5, 1, 12, 1059 
+walks
+ 5, 1, 12, 1100 
+windy
+ 5, 1, 12, 1126 
+yanks
+ 5, 1, 12, 1146 
+biffs
+ 5, 1, 13, 87 
+block
+ 5, 1, 13, 99 
+brick
+ 5, 1, 13, 124 
+bucks
+ 5, 1, 13, 131 
+chary
+ 5, 1, 13, 165 
+dinky
+ 5, 1, 13, 261 
+filch
+ 5, 1, 13, 342 
+gawks
+ 5, 1, 13, 396 
+hypes
+ 5, 1, 13, 490 
+hypos
+ 5, 1, 13, 491 
+phyla
+ 5, 1, 13, 716 
+pigmy
+ 5, 1, 13, 718 
+pluck
+ 5, 1, 13, 732 
+pshaw
+ 5, 1, 13, 756 
+thymi
+ 5, 1, 13, 1014 
+whips
+ 5, 1, 13, 1118 
+campy
+ 5, 1, 14, 149 
+chalk
+ 5, 1, 14, 162 
+champ
+ 5, 1, 14, 163 
+chink
+ 5, 1, 14, 170 
+fishy
+ 5, 1, 14, 348 
+flock
+ 5, 1, 14, 358 
+frack
+ 5, 1, 14, 374 
+hacks
+ 5, 1, 14, 445 
+lucky
+ 5, 1, 14, 582 
+smoky
+ 5, 1, 14, 910 
+tacky
+ 5, 1, 14, 986 
+wharf
+ 5, 1, 14, 1114 
+fluky
+ 5, 1, 15, 363 
+johns
+ 5, 1, 15, 514 
+wonky
+ 5, 1, 15, 1132 
+bozos
+ 5, 1, 16, 119 
+gawky
+ 5, 1, 16, 397 
+jerks
+ 5, 1, 16, 510 
+xcvii
+ 5, 1, 17, 1143 
+shyly
+ 5, 0, 14, 879 
+psych
+ 5, 0, 15, 757 
+anion
+ 4, 3, 5, 30 
+oases
+ 4, 3, 5, 670 
+gouge
+ 4, 3, 7, 422 
+alias
+ 4, 2, 5, 19 
+allot
+ 4, 2, 5, 21 
+easel
+ 4, 2, 5, 298 
+inner
+ 4, 2, 5, 501 
+nines
+ 4, 2, 5, 659 
+ousts
+ 4, 2, 5, 684 
+rarer
+ 4, 2, 5, 783 
+roars
+ 4, 2, 5, 810 
+saris
+ 4, 2, 5, 834 
+sauna
+ 4, 2, 5, 837 
+sears
+ 4, 2, 5, 850 
+seats
+ 4, 2, 5, 851 
+sinus
+ 4, 2, 5, 885 
+soles
+ 4, 2, 5, 922 
+sties
+ 4, 2, 5, 957 
+tenon
+ 4, 2, 5, 1003 
+tonne
+ 4, 2, 5, 1028 
+algae
+ 4, 2, 6, 18 
+erode
+ 4, 2, 6, 314 
+gonna
+ 4, 2, 6, 418 
+goose
+ 4, 2, 6, 421 
+odour
+ 4, 2, 6, 674 
+order
+ 4, 2, 6, 683 
+outdo
+ 4, 2, 6, 685 
+rared
+ 4, 2, 6, 782 
+rodeo
+ 4, 2, 6, 812 
+roger
+ 4, 2, 6, 813 
+aging
+ 4, 2, 7, 14 
+amiss
+ 4, 2, 7, 27 
+assoc
+ 4, 2, 7, 44 
+butte
+ 4, 2, 7, 140 
+canon
+ 4, 2, 7, 150 
+dados
+ 4, 2, 7, 236 
+doled
+ 4, 2, 7, 269 
+emote
+ 4, 2, 7, 309 
+local
+ 4, 2, 7, 570 
+muses
+ 4, 2, 7, 643 
+paean
+ 4, 2, 7, 691 
+pease
+ 4, 2, 7, 706 
+prior
+ 4, 2, 7, 750 
+purer
+ 4, 2, 7, 762 
+riper
+ 4, 2, 7, 806 
+alley
+ 4, 2, 8, 20 
+avian
+ 4, 2, 8, 50 
+frier
+ 4, 2, 8, 379 
+idiom
+ 4, 2, 8, 493 
+rower
+ 4, 2, 8, 820 
+safes
+ 4, 2, 8, 828 
+tithe
+ 4, 2, 8, 1022 
+vases
+ 4, 2, 8, 1077 
+abeam
+ 4, 2, 9, 0 
+lemma
+ 4, 2, 9, 554 
+nabob
+ 4, 2, 9, 646 
+piper
+ 4, 2, 9, 724 
+pipes
+ 4, 2, 9, 725 
+popes
+ 4, 2, 9, 741 
+skies
+ 4, 2, 9, 890 
+faded
+ 4, 2, 10, 324 
+gimme
+ 4, 2, 10, 405 
+bebop
+ 4, 2, 11, 75 
+fiefs
+ 4, 2, 11, 340 
+offal
+ 4, 2, 11, 675 
+pekoe
+ 4, 2, 11, 709 
+weave
+ 4, 2, 11, 1109 
+evoke
+ 4, 2, 12, 318 
+gaffe
+ 4, 2, 12, 389 
+widow
+ 4, 2, 12, 1123 
+kebab
+ 4, 2, 13, 522 
+kebob
+ 4, 2, 13, 523 
+razor
+ 4, 2, 14, 787 
+dozed
+ 4, 2, 16, 277 
+khaki
+ 4, 2, 16, 524 
+quaff
+ 4, 2, 20, 766 
+lusts
+ 4, 1, 5, 586 
+natal
+ 4, 1, 5, 651 
+nests
+ 4, 1, 5, 654 
+rusts
+ 4, 1, 5, 826 
+sluts
+ 4, 1, 5, 906 
+sneer
+ 4, 1, 5, 914 
+snoot
+ 4, 1, 5, 916 
+steer
+ 4, 1, 5, 955 
+stint
+ 4, 1, 5, 958 
+tarts
+ 4, 1, 5, 994 
+tilts
+ 4, 1, 5, 1018 
+tints
+ 4, 1, 5, 1021 
+tools
+ 4, 1, 5, 1029 
+troll
+ 4, 1, 5, 1044 
+donor
+ 4, 1, 6, 270 
+drill
+ 4, 1, 6, 283 
+drool
+ 4, 1, 6, 285 
+dulls
+ 4, 1, 6, 291 
+egret
+ 4, 1, 6, 302 
+galls
+ 4, 1, 6, 390 
+goons
+ 4, 1, 6, 420 
+grass
+ 4, 1, 6, 427 
+green
+ 4, 1, 6, 429 
+gusts
+ 4, 1, 6, 442 
+needs
+ 4, 1, 6, 653 
+roods
+ 4, 1, 6, 814 
+salad
+ 4, 1, 6, 830 
+sends
+ 4, 1, 6, 854 
+studs
+ 4, 1, 6, 966 
+apart
+ 4, 1, 7, 34 
+balsa
+ 4, 1, 7, 60 
+banal
+ 4, 1, 7, 61 
+banns
+ 4, 1, 7, 62 
+beets
+ 4, 1, 7, 76 
+boron
+ 4, 1, 7, 115 
+burrs
+ 4, 1, 7, 138 
+butts
+ 4, 1, 7, 141 
+casts
+ 4, 1, 7, 157 
+creel
+ 4, 1, 7, 219 
+edger
+ 4, 1, 7, 301 
+greed
+ 4, 1, 7, 428 
+moots
+ 4, 1, 7, 630 
+pasts
+ 4, 1, 7, 701 
+polls
+ 4, 1, 7, 739 
+repel
+ 4, 1, 7, 797 
+scene
+ 4, 1, 7, 842 
+scoot
+ 4, 1, 7, 844 
+smell
+ 4, 1, 7, 908 
+spans
+ 4, 1, 7, 930 
+stabs
+ 4, 1, 7, 946 
+steep
+ 4, 1, 7, 954 
+sunup
+ 4, 1, 7, 973 
+dding
+ 4, 1, 8, 243 
+discs
+ 4, 1, 8, 262 
+fists
+ 4, 1, 8, 349 
+heels
+ 4, 1, 8, 460 
+hoots
+ 4, 1, 8, 478 
+lever
+ 4, 1, 8, 557 
+manga
+ 4, 1, 8, 595 
+sewer
+ 4, 1, 8, 858 
+shots
+ 4, 1, 8, 874 
+silly
+ 4, 1, 8, 883 
+slews
+ 4, 1, 8, 898 
+sooth
+ 4, 1, 8, 924 
+sooty
+ 4, 1, 8, 925 
+sunny
+ 4, 1, 8, 972 
+sweet
+ 4, 1, 8, 979 
+tinny
+ 4, 1, 8, 1020 
+walls
+ 4, 1, 8, 1101 
+weest
+ 4, 1, 8, 1110 
+wills
+ 4, 1, 8, 1125 
+blobs
+ 4, 1, 9, 98 
+bulbs
+ 4, 1, 9, 133 
+cutup
+ 4, 1, 9, 235 
+delve
+ 4, 1, 9, 251 
+forgo
+ 4, 1, 9, 370 
+gnawn
+ 4, 1, 9, 414 
+looks
+ 4, 1, 9, 574 
+mucus
+ 4, 1, 9, 638 
+nimbi
+ 4, 1, 9, 658 
+scabs
+ 4, 1, 9, 838 
+shags
+ 4, 1, 9, 860 
+sinks
+ 4, 1, 9, 884 
+skits
+ 4, 1, 9, 892 
+vigil
+ 4, 1, 9, 1085 
+woods
+ 4, 1, 9, 1133 
+berry
+ 4, 1, 10, 83 
+bevel
+ 4, 1, 10, 85 
+civil
+ 4, 1, 10, 179 
+embed
+ 4, 1, 10, 307 
+enemy
+ 4, 1, 10, 310 
+hasps
+ 4, 1, 10, 453 
+kneed
+ 4, 1, 10, 531 
+magma
+ 4, 1, 10, 591 
+marry
+ 4, 1, 10, 598 
+messy
+ 4, 1, 10, 610 
+patty
+ 4, 1, 10, 702 
+penny
+ 4, 1, 10, 710 
+putty
+ 4, 1, 10, 764 
+shams
+ 4, 1, 10, 862 
+shims
+ 4, 1, 10, 868 
+spays
+ 4, 1, 10, 932 
+spoof
+ 4, 1, 10, 940 
+swabs
+ 4, 1, 10, 974 
+sweep
+ 4, 1, 10, 978 
+creek
+ 4, 1, 11, 218 
+dodgy
+ 4, 1, 11, 266 
+finny
+ 4, 1, 11, 347 
+fryer
+ 4, 1, 11, 382 
+lowly
+ 4, 1, 11, 580 
+parka
+ 4, 1, 11, 698 
+riffs
+ 4, 1, 11, 802 
+spook
+ 4, 1, 11, 941 
+where
+ 4, 1, 11, 1116 
+witty
+ 4, 1, 11, 1130 
+highs
+ 4, 1, 12, 466 
+macaw
+ 4, 1, 12, 589 
+mooch
+ 4, 1, 12, 629 
+tummy
+ 4, 1, 12, 1052 
+crick
+ 4, 1, 13, 221 
+cuffs
+ 4, 1, 13, 229 
+sexed
+ 4, 1, 13, 859 
+skulk
+ 4, 1, 13, 893 
+cabby
+ 4, 1, 14, 142 
+cheek
+ 4, 1, 14, 166 
+daffy
+ 4, 1, 15, 237 
+gonzo
+ 4, 1, 15, 419 
+knock
+ 4, 1, 15, 533 
+rajah
+ 4, 1, 15, 779 
+skiff
+ 4, 1, 15, 891 
+vexes
+ 4, 1, 15, 1082 
+chuck
+ 4, 1, 16, 174 
+cocky
+ 4, 1, 16, 194 
+kooky
+ 4, 1, 16, 535 
+fizzy
+ 4, 1, 29, 350 
+jazzy
+ 4, 1, 33, 508 
+wryly
+ 4, 0, 14, 1142 
+eases
+ 3, 2, 5, 299 
+cocoa
+ 3, 2, 9, 195 
+attar
+ 3, 1, 5, 46 
+sills
+ 3, 1, 5, 882 
+tenet
+ 3, 1, 5, 1002 
+erred
+ 3, 1, 6, 315 
+sagas
+ 3, 1, 6, 829 
+dodos
+ 3, 1, 7, 267 
+manna
+ 3, 1, 7, 596 
+seems
+ 3, 1, 7, 852 
+seeps
+ 3, 1, 7, 853 
+edged
+ 3, 1, 8, 300 
+level
+ 3, 1, 8, 556 
+sassy
+ 3, 1, 8, 835 
+wanna
+ 3, 1, 8, 1102 
+lemme
+ 3, 1, 9, 555 
+poops
+ 3, 1, 9, 740 
+peeve
+ 3, 1, 10, 708 
+shahs
+ 3, 1, 11, 861 
+booby
+ 3, 1, 12, 110 
+civic
+ 3, 1, 12, 178 
+hooch
+ 3, 1, 13, 477 
+kooks
+ 3, 1, 13, 534 
+1158
