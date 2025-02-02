@@ -1,7 +1,7 @@
 def count_occurances(word, check_list):
     occurances = 0
-    for letter in word:
-        if letter in check_list:
+    for letter in check_list:
+        if letter in word:
             occurances = occurances + 1
     return occurances
 

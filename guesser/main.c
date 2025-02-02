@@ -8,7 +8,7 @@ int main()
     unsigned short int guess_num;
     long words_remaining, word_mem_length, total_words;
     bool complete = false;
-    
+
     total_words = read_list(word_list);
     words_remaining = total_words;
     word_mem_length = (long) word_list[1] - (long)word_list[0];
@@ -25,7 +25,7 @@ int main()
         guesses[guess_num] = make_guess(prev_guess, feedback, guesses, words_remaining, guess_num, word_mem_length);
         
         if (guesses[guess_num]==NULL){
-           printf("programme failed 1 :(\n");
+           printf("programme failed :(\n");
            break;
         } 
 
@@ -98,25 +98,25 @@ char* make_guess(char* prev_guess, char feedback[MAX_GUESSES+1][WORD_LEN+1], cha
 {
     pthread_t threads[NUM_THREADS];
     void *results[NUM_THREADS];
-    unsigned short int i, error_check;
+    unsigned short int i, j, error_check;
     bool complete = false;
     char* guess = NULL;
-
-    struct guess_information guess_input;
+    struct guess_information guess_input[NUM_THREADS];
     
-    for(i=0; i<guess_num; i++){
-        safe_copy(guess_input.feedback[i], feedback[i]);
-    }
-    
-    guess_input.guesses = guesses;
-    guess_input.guess_num = guess_num;   
+    for(i=0; i<NUM_THREADS; i++){  
+    	guess_input[i].guesses = guesses;
+    	guess_input[i].guess_num = guess_num;
+ 	for(j=0; j<guess_num; j++){
+        	safe_copy(guess_input[i].feedback[j], feedback[j]);
+    	}
+   }	
 
     while(!complete && words_remaining > 0){  
         for (i = 0; i < NUM_THREADS; i++) {
             prev_guess += word_mem_length;
             words_remaining-=1;
-            guess_input.word = prev_guess;
-            error_check = pthread_create(&threads[i], NULL, (void *)&check_word, (void *)&guess_input);
+            guess_input[i].word = prev_guess;
+            error_check = pthread_create(&threads[i], NULL, (void *)&check_word, (void *)&guess_input[i]);
             if (error_check) {
                 perror("pthread_create");
                 exit(1);
@@ -131,13 +131,14 @@ char* make_guess(char* prev_guess, char feedback[MAX_GUESSES+1][WORD_LEN+1], cha
             if((char*)results[i]!=NULL && !complete){
                 complete = true;
                 guess = (char*)results[i];
-            }
+	    }
         }
     }
 
     if (words_remaining <= 0){
         return NULL;
     }
+
     return guess;
 }
 

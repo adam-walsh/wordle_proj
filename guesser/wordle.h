@@ -7,9 +7,9 @@
 #include <pthread.h>
 #include <stdbool.h>
 
-#define MAX_LIST_LEN 4000
-#define FILENAME "word_sorter_py/list.txt"
-#define NUM_THREADS 1
+#define MAX_LIST_LEN 20000
+#define FILENAME "../word_sorter/list.txt"
+#define NUM_THREADS 4 
 #define MAX_GUESSES 20
 #define INVALID_CHARACTER 33
 #define WORD_LEN 6

@@ -31,22 +31,14 @@ char* check_word(struct guess_information* input)  // checks if a word is a poss
     
     return NULL;
 */
-
-    if (strcmp(input->word, "toast")){
-	return NULL;
-    }
-	
     if (!check_condition(&check_greens, input->word, input->feedback, input->guesses, input->guess_num)){
-	if (!strcmp(input->word, "toast")) printf("failed greens\n");
-        return NULL;
+       	return NULL;
     }
     else if (!check_condition(&check_blacks, input->word, input->feedback, input->guesses, input->guess_num)){
-	if (!strcmp(input->word, "toast")) printf("failed blacks\n");
-        return NULL;
+       	return NULL;
     }
     else if (!check_condition(&check_yellows, input->word, input->feedback, input->guesses, input->guess_num)){
-	if (!strcmp(input->word, "toast")) printf("failed yellows\n");
-        return NULL;
+	return NULL;
     }
     else{
         return input->word;
@@ -66,7 +58,9 @@ bool check_condition(bool(func)(char*, char*, char*), char* word, char feedback[
 bool check_greens(char* word, char feedback[WORD_LEN+1], char* old_guess) // checks if a word is valid from the greens in a previous guess
 {
     for(int i=0; i<WORD_LEN; i++){
-        if (feedback[i] == 'g' && old_guess[i] != word[i]) return false;
+        if (feedback[i] == 'g' && old_guess[i] != word[i]){
+	    return false;
+	}	    
     }
     return true;
 }
@@ -80,6 +74,7 @@ bool check_blacks(char *word, char feedback[WORD_LEN+1], char* old_guess) // che
 	for (int j=0; j<WORD_LEN; j++){	// check if there's another occurance of the letter marked as black that is marked yellow
 	    if (old_guess[i]==old_guess[j] && i!=j){
 		if (old_guess[i] == word[j]){
+		    if(!strcmp(word, "chore")) printf("1\nold_guess: %s \n i: %d\n", old_guess, i);
 		    return false;
 		}
 		else{
@@ -91,7 +86,7 @@ bool check_blacks(char *word, char feedback[WORD_LEN+1], char* old_guess) // che
         for (int j=0; j<WORD_LEN; j++){
             if(old_guess[j]==word[j] && feedback[j]=='g') continue;
             if (word[j] ==old_guess[i]){
-		printf ("%s failed on: %d, %d \n", word, i, j);
+		if(!strcmp(word, "chore")) printf("2\nold_guess: %s \n i: %d\n", old_guess, i);
 		return false;
 	    }   	
         }
@@ -105,11 +100,17 @@ bool check_yellows(char *word, char feedback[WORD_LEN+1], char* old_guess)    //
 
     for(int i=0; i<WORD_LEN; i++){
         if (feedback[i] != 'y') continue;
-        if (old_guess[i]==word[i]) return false;
+        if (old_guess[i]==word[i]) {
+		if(!strcmp(word, "chore")) printf("1\nold_guess: %s \n i: %d\n", old_guess, i);
+		return false;
+	}
         for(j=0; j<WORD_LEN; j++){
             if (old_guess[i]==word[j]) break;
         }
-        if (j==WORD_LEN) return false;
+        if (j==WORD_LEN){
+		if(!strcmp(word, "chore")) printf("2\nold_guess: %s \n i: %d\n", old_guess, i);
+		return false;
+	}
     }
     return true;
 }
