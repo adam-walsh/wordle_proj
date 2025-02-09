@@ -24,7 +24,7 @@ struct guess_information {
 // functions in main file
 unsigned int read_list(char list[MAX_LIST_LEN][WORD_LEN+2]);        // reads in a list of words form a file and stores it in the list variable
 bool get_feedback(char* feedback);  // gets feedback on the user for a guess
-char* make_guess(char* prev_guess, char feedback[MAX_GUESSES+1][WORD_LEN+1], char** guesses, long word_index, int guess_num, long word_mem_length); // moves pointer along array to next guess not ruled out
+char* make_guess(char feedback[MAX_GUESSES+1][WORD_LEN+1], char** guesses, long word_index, int guess_num, unsigned short int word_mem_length); // moves pointer along array to next guess not ruled out
 void trim_newline(char* string); // removes the newline character at the end of a string
                                 
 // functions in check_word file
