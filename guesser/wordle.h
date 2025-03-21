@@ -13,6 +13,7 @@
 #define MAX_GUESSES 20
 #define INVALID_CHARACTER 33
 #define WORD_LEN 6
+#define NUM_CHECKS 3
 
 struct guess_information {
     char* word;
