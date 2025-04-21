@@ -7,13 +7,15 @@ int main()
     unsigned short int guess_num, word_mem_length;	// guess number, length of memory used by a word in the list
     long words_remaining, total_words;
     bool complete = false;
+	
+    unsigned short int input_mode = HUMAN_INPUT;
 
     total_words = read_list(word_list);
     words_remaining = total_words;
     word_mem_length = (long) word_list[1] - (long)word_list[0];
     guesses[0] = word_list[0];	// make the first guess the first word in the list
 
-    printf("guess #%d: %s\n", 1, guesses[0]);
+    if (input_mode == HUMAN_INPUT) printf("guess #%d: %s\n", 1, guesses[0]);
 
     for(guess_num = 1; guess_num < MAX_GUESSES && !complete; guess_num++){
         complete = get_feedback(feedback[guess_num-1]);	// check which words are right

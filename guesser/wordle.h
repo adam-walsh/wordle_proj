@@ -14,6 +14,8 @@
 #define INVALID_CHARACTER 33
 #define WORD_LEN 6
 #define NUM_CHECKS 3
+#define MACHINE_INPUT 0
+#define HUMAN_INPUT 1
 
 struct guess_information {
     char* word;

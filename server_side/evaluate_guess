@@ -1,0 +1,25 @@
+#include "../guesser/wordle.h"
+
+void evaluate_guess(char* word, char* guess, char* feedback)
+{
+	for(unsigned short int i=0; i<WORD_LEN; i++){
+		if(word[i]==guess[i]{
+			feeedback[i] = 'g'
+		}
+		elif(evaluate_yellow(word, guess)){
+			feedback[i] = 'y'
+		}
+		else{
+			feedback[i] = 'b'
+		}
+	}
+}
+
+bool evaluate_yellow(char* word, char* guess)
+{
+	unsigned short int i;
+
+	for(i=0; i<WORD_LEN; i++){
+		
+	}
+}
